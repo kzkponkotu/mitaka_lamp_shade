@@ -1,0 +1,1 @@
+# mitaka_lamp_shade
